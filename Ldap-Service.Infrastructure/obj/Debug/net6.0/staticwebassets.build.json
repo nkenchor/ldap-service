@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "kwSlMY7fnIy9RywX3iah+NTgNt5ecsL9yfjM6tHmgBM=",
+  "Source": "Ldap-Service.Infrastructure",
+  "BasePath": "_content/Ldap-Service.Infrastructure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/home/nkenchor/Project/dotnet/ldap-service/Ldap-Service.Domain/Ldap-Service.Domain.csproj",
+      "Version": 2,
+      "Source": "Ldap-Service.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

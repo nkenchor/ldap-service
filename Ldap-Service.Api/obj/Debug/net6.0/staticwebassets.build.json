@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "CaRKKm1bvELYvrelkIKE9QKIeWO8spgBJjGFSFjBoX0=",
+  "Source": "Ldap-Service.Api",
+  "BasePath": "_content/Ldap-Service.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/home/nkenchor/Project/dotnet/ldap-service/Ldap-Service.Domain/Ldap-Service.Domain.csproj",
+      "Version": 2,
+      "Source": "Ldap-Service.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "/home/nkenchor/Project/dotnet/ldap-service/Ldap-Service.Infrastructure/Ldap-Service.Infrastructure.csproj",
+      "Version": 2,
+      "Source": "Ldap-Service.Infrastructure",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

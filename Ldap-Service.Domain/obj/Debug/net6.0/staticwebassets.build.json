@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t77L+V53HVBCg+T9S7N2cR48JrQvep5A7ZZFBi+geEA=",
+  "Source": "Ldap-Service.Domain",
+  "BasePath": "_content/Ldap-Service.Domain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
